@@ -1,0 +1,18 @@
+# Web Framework
+flask
+
+# Environment Variables
+python-dotenv
+
+# Ollama Python Library
+ollama
+
+# Hugging Face / PyTorch Core
+torch
+diffusers
+transformers
+accelerate
+safetensors
+
+# Image Processing (Standard library, usually included but good to have)
+Pillow
