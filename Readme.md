@@ -44,7 +44,7 @@
 ### 1. Clone & Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/0xRavenBlack/local-ai-web-architect.git
 cd ai-web-agent
 ```
 
